@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^2.0.0",
+    "havenondemand": "^1.1.0",
     "limiter": "^1.1.0",
     "twitter": "^1.2.5"
   }
