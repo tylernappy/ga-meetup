@@ -1,0 +1,16 @@
+{
+  "name": "ga-meetup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Nappy",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "limiter": "^1.1.0",
+    "twitter": "^1.2.5"
+  }
+}
